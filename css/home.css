@@ -68,7 +68,7 @@ html {
   text-decoration-color: #101010;
 }
 .pimg1 {
-  background-image: url("../images/1.jpg");
+  background-image: url("/images/1.jpg");
   height: 100%;
   position: relative;
   opacity: 0.7;
@@ -107,7 +107,7 @@ html {
 .content {
   width: 100%;
   float: left;
-  background-image: url("../images/3.jpg");
+  background-image: url("/images/3.jpg");
 }
 .upperrow {
   padding-top: 130px;
@@ -165,7 +165,7 @@ html {
   justify-content: center;
   align-items: center;
   background-attachment: fixed;
-  background-image: url("../images/3.jpg");
+  background-image: url("/images/3.jpg");
   height: 350px;
 }
 .brick__title {
